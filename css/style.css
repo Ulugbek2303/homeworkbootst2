@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+
+.difCard{
+    width: 48% !important;
+}
+.ownWidth{
+    width: 50%;
+}
+@media (max-width:992px){
+    .difCard{
+        width: 100% !important;
+    }
+    .ownWidth{
+        width: 100%;
+    }
+    .btn{
+        margin-bottom: 40px;
+    }
+
+}
